@@ -1,8 +1,5 @@
-# React + Vite
+# Frontend practice - copy of ableton site (https://www.ableton.com/en/jobs/)
+Built with vite, react, and tailwind.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Preview:
+![Screenshot 2023-10-26 at 08-34-30 Vite React](https://github.com/nicholasleexyz/frontend-practice-ableton/assets/129869926/a87a8056-6528-49b2-8f43-3bbb4af18b95)
